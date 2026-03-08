@@ -1,0 +1,69 @@
+# Environment variables (contains API keys)
+.env
+
+# SQLite database (contains personal application data)
+applications.db
+applications.db-journal
+
+# Generated resume files
+tailored_resume.tex
+tailored_resume.pdf
+tailored_resume.aux
+tailored_resume.log
+tailored_resume.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Playwright
+.playwright/
+
+# Logs
+*.log

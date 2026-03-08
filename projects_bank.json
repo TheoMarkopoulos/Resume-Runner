@@ -1,0 +1,353 @@
+[
+  {
+    "category": "Full Stack Engineer",
+    "title": "ZotLabs/UbeBytes Research Platform",
+    "tech_stack": "React, Vite, Supabase, Tailwind CSS",
+    "bullets": [
+      "Streamlined student-to-researcher matching as measured by supporting 500+ simulated concurrent users by developing a full-stack web application with a responsive UI and relational database backend.",
+      "Reduced data retrieval latency as measured by a 30% decrease in API load times by optimizing Supabase query structures and implementing efficient frontend state management."
+    ]
+  },
+  {
+    "category": "Full Stack Engineer",
+    "title": "Fusion ICS Management System",
+    "tech_stack": "Java, Spring Boot, PostgreSQL",
+    "bullets": [
+      "Optimized course data retrieval times as measured by a 40% reduction in query latency by designing a normalized SQL database schema and a robust RESTful API.",
+      "Enhanced system reliability as measured by achieving 99% uptime in a local testing environment by implementing comprehensive error handling and logging within the Spring Boot framework."
+    ]
+  },
+  {
+    "category": "Full Stack Engineer",
+    "title": "Interactive Date Night Generator",
+    "tech_stack": "HTML, CSS, JavaScript, Node.js",
+    "bullets": [
+      "Increased user engagement as measured by a 30% increase in average session duration by implementing a responsive, randomized activity generation algorithm connected to a lightweight backend.",
+      "Accelerated feature deployment as measured by cutting deployment time in half by establishing a continuous integration pipeline for automated testing and hosting."
+    ]
+  },
+  {
+    "category": "React Developer",
+    "title": "UbeBytes State Management Architecture",
+    "tech_stack": "React, Context API, React Router",
+    "bullets": [
+      "Decreased page load times as measured by a 30% improvement in First Contentful Paint by refactoring monolithic state into modular React Context providers and implementing lazy loading.",
+      "Improved code maintainability as measured by a 20% reduction in bug ticket resolution time by standardizing component architecture and implementing strict interface types."
+    ]
+  },
+  {
+    "category": "React Developer",
+    "title": "E-Commerce Streetwear Storefront",
+    "tech_stack": "React, Redux, Node.js",
+    "bullets": [
+      "Processed simulated transactions as measured by 100% successful payment gateway API calls by integrating a mock Stripe payment processor into a custom Redux-managed shopping cart state.",
+      "Enhanced user shopping experience as measured by a 15% increase in simulated conversion rates by developing a responsive, mobile-first product filtering system using Tailwind CSS."
+    ]
+  },
+  {
+    "category": "React Developer",
+    "title": "Date Night UI Refactor",
+    "tech_stack": "React, Styled Components, Vite",
+    "bullets": [
+      "Accelerated local development build times as measured by a 50% decrease in hot-module reloading delays by migrating a legacy HTML/CSS application to a modern Vite and React build pipeline.",
+      "Increased cross-browser compatibility as measured by zero visual regression errors across 4 major browsers by implementing dynamic Styled Components with standardized CSS resets."
+    ]
+  },
+  {
+    "category": "Frontend Software Engineer",
+    "title": "Personal Developer Portfolio",
+    "tech_stack": "React, Tailwind CSS, Framer Motion",
+    "bullets": [
+      "Improved web accessibility and performance as measured by achieving a perfect 100 Google Lighthouse score by building a statically generated, mobile-responsive single-page application.",
+      "Increased user session retention as measured by a 25% lower bounce rate by integrating smooth scroll animations and interactive UI elements using Framer Motion."
+    ]
+  },
+  {
+    "category": "Frontend Software Engineer",
+    "title": "ZotLabs UI Component Library",
+    "tech_stack": "React, Storybook, CSS Grid",
+    "bullets": [
+      "Accelerated team development cycles as measured by a 25% reduction in frontend code duplication by engineering a reusable, modular component architecture.",
+      "Streamlined design-to-code handoffs as measured by a 40% decrease in UI inconsistencies by documenting all custom components interactively within Storybook."
+    ]
+  },
+  {
+    "category": "Frontend Software Engineer",
+    "title": "Bouldering Gym Route Tracker",
+    "tech_stack": "JavaScript, React Native, CSS",
+    "bullets": [
+      "Tracked 100+ simulated indoor climbing ascents as measured by seamless, jitter-free DOM rendering by building a mobile-first web interface for logging physical progress.",
+      "Optimized mobile user experience as measured by a 20% faster touch-response time by utilizing CSS Grid and Flexbox for fluid, scalable layouts across device sizes."
+    ]
+  },
+  {
+    "category": "UI/UX Developer",
+    "title": "ZotLabs Accessibility Overhaul",
+    "tech_stack": "React, ARIA Standards, Figma",
+    "bullets": [
+      "Achieved WCAG 2.1 AA compliance as measured by 100% automated accessibility test pass rates by auditing and rewriting component markup using semantic HTML and ARIA roles.",
+      "Enhanced screen reader navigation as measured by a 50% reduction in auditory clutter by restructuring the DOM hierarchy and applying logical tab indexing."
+    ]
+  },
+  {
+    "category": "UI/UX Developer",
+    "title": "Dining Discovery Prototype",
+    "tech_stack": "Figma, InVision, User Research",
+    "bullets": [
+      "Validated local restaurant discovery features as measured by a 90% task completion rate among 15 test users by creating high-fidelity interactive wireframes for a mobile application.",
+      "Streamlined user onboarding as measured by a 30% drop in abandonment during testing by iteratively refining the UI based on direct user feedback sessions."
+    ]
+  },
+  {
+    "category": "UI/UX Developer",
+    "title": "Portfolio Dark Mode Implementation",
+    "tech_stack": "CSS Variables, JavaScript, UI Design",
+    "bullets": [
+      "Improved low-light readability as measured by a 15% simulated increase in user retention by engineering a seamless, system-aware dark mode toggle using CSS custom properties.",
+      "Reduced frontend technical debt as measured by replacing 200+ hardcoded hex values with a scalable CSS variable color token system by establishing a global design theme."
+    ]
+  },
+  {
+    "category": "Data Analyst",
+    "title": "Enron Dataset Exploratory Analysis",
+    "tech_stack": "Python, Pandas, Matplotlib, Seaborn",
+    "bullets": [
+      "Identified key patterns in malicious communication as measured by generating 5 actionable intelligence reports by cleaning and visualizing a massive corporate email dataset using Pandas.",
+      "Accelerated data processing workflows as measured by a 40% reduction in script execution time by vectorizing iterative row operations using core NumPy and Pandas functions."
+    ]
+  },
+  {
+    "category": "Data Analyst",
+    "title": "Marathon Pacing Dashboard",
+    "tech_stack": "SQL, Tableau, Excel",
+    "bullets": [
+      "Visualized split-time efficiency across elevation zones as measured by a 20% improvement in readable data delivery by writing complex SQL queries to aggregate trail running GPS data.",
+      "Simplified performance tracking as measured by a 100% reduction in manual spreadsheet formatting by building an automated, interactive Tableau dashboard linked directly to a SQL database."
+    ]
+  },
+  {
+    "category": "Data Analyst",
+    "title": "Personal Finance Tracker",
+    "tech_stack": "Python, SQL, Streamlit",
+    "bullets": [
+      "Categorized 1,000+ historical transactions as measured by 98% programmatic accuracy by building an automated categorization script mapping vendor strings to budget categories.",
+      "Enhanced financial visibility as measured by generating real-time monthly expenditure summaries by developing a responsive, web-based data dashboard using Streamlit."
+    ]
+  },
+  {
+    "category": "Data Scientist",
+    "title": "Spam Detection Predictive Modeling",
+    "tech_stack": "Python, Scikit-Learn, XGBoost",
+    "bullets": [
+      "Reduced false positive email flags as measured by a 12% increase in precision metrics by conducting A/B testing on multiple decision tree and ensemble learning algorithms.",
+      "Optimized model performance as measured by a 5% boost in the F1-score by implementing randomized grid search cross-validation to fine-tune XGBoost hyperparameters."
+    ]
+  },
+  {
+    "category": "Data Scientist",
+    "title": "Algorithmic Trading Backtester",
+    "tech_stack": "Python, NumPy, Pandas",
+    "bullets": [
+      "Simulated consistent portfolio growth as measured by outperforming historical baseline index funds by 5% by backtesting a custom moving-average crossover strategy using vectorized NumPy operations.",
+      "Validated trading algorithms as measured by successfully processing 10 years of daily price data in under 2 seconds by leveraging highly optimized Pandas DataFrame manipulation."
+    ]
+  },
+  {
+    "category": "Data Scientist",
+    "title": "Music Festival Crowd Predictor",
+    "tech_stack": "Python, Random Forest, Scikit-Learn",
+    "bullets": [
+      "Forecasted peak attendance times as measured by an 85% predictive accuracy rate by training a Random Forest regression model on historical weather and ticket sales data.",
+      "Mitigated data bias as measured by a 10% reduction in mean squared error by applying SMOTE techniques to balance underrepresented minority event data sets."
+    ]
+  },
+  {
+    "category": "Data Engineer",
+    "title": "Chained Hash Table Implementation",
+    "tech_stack": "C++, Data Structures",
+    "bullets": [
+      "Optimized data insertion and retrieval as measured by achieving O(1) average time complexity by developing a custom memory-efficient chained hash table from scratch.",
+      "Prevented memory leaks as measured by zero reported errors in Valgrind profiling by implementing robust C++ destructor and pointer management protocols."
+    ]
+  },
+  {
+    "category": "Data Engineer",
+    "title": "Fusion ICS Data Pipeline",
+    "tech_stack": "Python, Apache Airflow, PostgreSQL",
+    "bullets": [
+      "Automated daily data ingestion from 3 disparate sources as measured by a 100% reduction in manual data entry errors by orchestrating an ETL pipeline using Apache Airflow and SQL.",
+      "Improved database query performance as measured by a 35% speed increase during peak loads by indexing highly accessed foreign key columns in the PostgreSQL schema."
+    ]
+  },
+  {
+    "category": "Data Engineer",
+    "title": "Log File Parsing Engine",
+    "tech_stack": "Java, Regex, Bash",
+    "bullets": [
+      "Processed 10GB of simulated server logs as measured by a 40% speed increase over standard command-line tools by writing a multi-threaded Java application with optimized regular expressions.",
+      "Standardized output formats as measured by generating 100% compliant JSON payloads by designing a rigorous data extraction and transformation layer."
+    ]
+  },
+  {
+    "category": "Machine Learning Engineer",
+    "title": "Enron Spam Classifier",
+    "tech_stack": "Python, Scikit-Learn, NLTK",
+    "bullets": [
+      "Classified malicious communications as measured by a 95% accuracy rate on a 500,000+ email dataset by implementing and tuning a Naive Bayes natural language processing model.",
+      "Improved text feature extraction as measured by a 15% reduction in vocabulary dimensionality by utilizing TF-IDF vectorization and custom NLTK stop-word filtering."
+    ]
+  },
+  {
+    "category": "Machine Learning Engineer",
+    "title": "Letterboxd Movie Recommender",
+    "tech_stack": "Python, TensorFlow, Collaborative Filtering",
+    "bullets": [
+      "Improved recommendation relevance as measured by a 25% decrease in mean absolute error by engineering a neural collaborative filtering model based on user watch histories.",
+      "Scaled model deployment as measured by successfully serving 100+ concurrent API requests by wrapping the TensorFlow model in a lightweight FastAPI application."
+    ]
+  },
+  {
+    "category": "Machine Learning Engineer",
+    "title": "Sudoku Constraint Satisfaction Solver",
+    "tech_stack": "Python, AI Search Algorithms",
+    "bullets": [
+      "Solved complex numerical puzzles as measured by an average execution time under 0.1 seconds by translating a low-level MIPS assembly backtracking algorithm into an optimized Python heuristic search.",
+      "Reduced computational overhead as measured by a 40% decrease in node expansions by implementing forward checking and minimum remaining values heuristics."
+    ]
+  },
+  {
+    "category": "Machine Learning, Ads",
+    "title": "Targeted Ad Click-Through Predictor",
+    "tech_stack": "Python, TensorFlow, Logistic Regression",
+    "bullets": [
+      "Improved ad targeting efficiency as measured by an 18% simulated increase in conversion rates by training a logistic regression model on historical user demographic and engagement datasets.",
+      "Identified high-value audience segments as measured by isolating the top 3 predictive user features by analyzing coefficient weights within the trained model."
+    ]
+  },
+  {
+    "category": "Machine Learning, Ads",
+    "title": "Consumer Behavior Clustering",
+    "tech_stack": "Python, K-Means, PCA",
+    "bullets": [
+      "Identified core buyer personas as measured by segmenting a 10,000-row e-commerce purchasing dataset into 4 distinct clusters by applying K-Means algorithms.",
+      "Visualized multi-dimensional user data as measured by retaining 90% of dataset variance in a 2D plot by applying Principal Component Analysis (PCA) for dimensionality reduction."
+    ]
+  },
+  {
+    "category": "Machine Learning, Ads",
+    "title": "A/B Testing Revenue Analyzer",
+    "tech_stack": "Python, SciPy, Statistical Significance",
+    "bullets": [
+      "Validated advertising performance as measured by confirming a 5% revenue lift at a 95% confidence interval by designing and executing rigorous statistical hypothesis tests on variant data.",
+      "Automated statistical reporting as measured by saving 2 hours of manual calculation per test by writing reusable Python scripts for T-tests and P-value generation."
+    ]
+  },
+  {
+    "category": "Cyber Security Engineer",
+    "title": "Malicious Payload Classifier",
+    "tech_stack": "Python, Machine Learning, Wireshark",
+    "bullets": [
+      "Detected simulated network intrusions as measured by a 92% true positive rate by adapting an NLP spam classification model to analyze packet capture (PCAP) data strings.",
+      "Streamlined incident triage as measured by integrating a real-time alerting webhook by connecting the Python classification script directly to a mock Slack API."
+    ]
+  },
+  {
+    "category": "Cyber Security Engineer",
+    "title": "Secure Hash Algorithm Library",
+    "tech_stack": "C++, Cryptography",
+    "bullets": [
+      "Secured stored user credentials as measured by successful defense against simulated rainbow table attacks by developing a custom C++ library implementing salted and iterated cryptographic hashing.",
+      "Ensured cryptographic integrity as measured by passing 100% of standard unit tests by validating hash outputs against known industry benchmarks."
+    ]
+  },
+  {
+    "category": "Cyber Security Engineer",
+    "title": "Web App Vulnerability Scanner",
+    "tech_stack": "Python, Requests, BeautifulSoup",
+    "bullets": [
+      "Identified security flaws across 10 test endpoints as measured by successfully flagging simulated XSS and SQL injection vulnerabilities by automating HTTP request manipulation and response analysis.",
+      "Generated actionable security reports as measured by outputting standardized PDF vulnerability summaries by integrating a reporting library into the scanning pipeline."
+    ]
+  },
+  {
+    "category": "Cyber Security Analyst",
+    "title": "Enron Phishing Threat Analysis",
+    "tech_stack": "Python, Regex, Threat Intelligence",
+    "bullets": [
+      "Extracted actionable threat intelligence as measured by cataloging 500+ suspicious domains by utilizing advanced regular expressions to parse a historical archive of corporate communications.",
+      "Mapped attacker methodologies as measured by isolating 3 distinct phishing campaigns by analyzing email header anomalies and sender IP addresses."
+    ]
+  },
+  {
+    "category": "Cyber Security Analyst",
+    "title": "System Log Anomaly Detector",
+    "tech_stack": "Bash, Linux, AWK",
+    "bullets": [
+      "Reduced incident response time as measured by a 25% faster identification of brute-force attempts by writing automated shell scripts to monitor server logs and flag repeated failed authentications.",
+      "Optimized server performance monitoring as measured by automating daily CPU and memory usage reports by utilizing AWK and cron jobs for scheduled data extraction."
+    ]
+  },
+  {
+    "category": "Cyber Security Analyst",
+    "title": "Network Traffic Monitoring Dashboard",
+    "tech_stack": "Splunk, SIEM, PCAP",
+    "bullets": [
+      "Visualized real-time threat vectors for security auditing as measured by successfully indexing 100,000+ packets by configuring a local SIEM environment to ingest network traffic logs.",
+      "Enhanced threat visibility as measured by creating 5 custom alert dashboards by writing specific Splunk Processing Language (SPL) queries to track anomalous port activity."
+    ]
+  },
+  {
+    "category": "iOS/Swift Developer",
+    "title": "Music Festival Schedule App",
+    "tech_stack": "Swift, SwiftUI, CoreData",
+    "bullets": [
+      "Increased user schedule retention as measured by a 50% decrease in network timeout errors by building a native iOS application with local CoreData storage for offline viewing at live events.",
+      "Improved UI responsiveness as measured by a steady 60 FPS scrolling performance by utilizing SwiftUI's declarative syntax and optimized list rendering."
+    ]
+  },
+  {
+    "category": "iOS/Swift Developer",
+    "title": "Sudoku Mobile Solver",
+    "tech_stack": "Swift, UIKit, Algorithms",
+    "bullets": [
+      "Solved complex puzzles natively on mobile as measured by executing logic in under 1 second by translating a low-level MIPS assembly backtracking algorithm into an optimized Swift application.",
+      "Enhanced user interaction as measured by a highly intuitive touch interface by designing a custom programmatic UI using UIKit and Auto Layout constraints."
+    ]
+  },
+  {
+    "category": "iOS/Swift Developer",
+    "title": "Anagram Game Assistant",
+    "tech_stack": "Swift, CoreML, Vision",
+    "bullets": [
+      "Identified valid word combinations as measured by a 3x speed improvement over manual entry by integrating Apple's Vision framework to scan screenshots and a custom algorithm to generate anagrams.",
+      "Ensured high offline accuracy as measured by successfully validating 99% of generated words against a local dictionary by embedding a highly compressed trie data structure."
+    ]
+  },
+  {
+    "category": "IT Support Specialist",
+    "title": "Automated Hardware Diagnostics Script",
+    "tech_stack": "PowerShell, Bash",
+    "bullets": [
+      "Reduced diagnostic time as measured by a 50% faster hardware analysis by developing a cross-platform script to aggregate CPU, memory, and disk health metrics into a single automated report.",
+      "Standardized endpoint troubleshooting as measured by successfully deploying the script across 20+ simulated virtual machines by utilizing remote execution protocols."
+    ]
+  },
+  {
+    "category": "IT Support Specialist",
+    "title": "Campus Network Troubleshooting Wiki",
+    "tech_stack": "Documentation, Markdown, TCP/IP",
+    "bullets": [
+      "Resolved common connectivity issues at a Tier 1 level as measured by an 80% simulated ticket deflection rate by authoring a comprehensive, step-by-step technical documentation repository.",
+      "Improved knowledge sharing accessibility as measured by a 100% successful indexing rate by structuring the documentation using semantic Markdown and static site generators."
+    ]
+  },
+  {
+    "category": "IT Support Specialist",
+    "title": "Custom Controller Firmware Flasher",
+    "tech_stack": "C, USB Protocols",
+    "bullets": [
+      "Restored peripheral functionality as measured by successfully unbricking 5 gaming controllers by reverse-engineering and flashing custom firmware via low-level USB communication protocols.",
+      "Diagnosed hardware faults as measured by isolating faulty analog stick potentiometers by using serial terminal readouts to analyze raw input data streams."
+    ]
+  }
+]

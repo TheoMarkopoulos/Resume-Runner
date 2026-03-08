@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @page {
+            size: letter;
+            margin-top: 13.5pt;
+            margin-bottom: 18pt;
+            margin-left: 72pt;
+            margin-right: 72pt;
+        }
+
+        body {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 10.5pt;
+            line-height: 1.15;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 11pt;
+        }
+
+        .name {
+            font-size: 14pt;
+            font-weight: bold;
+        }
+
+        .contact {
+            font-size: 12pt;
+        }
+
+        .section-title {
+            font-size: 12pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 1px solid #000;
+            margin-top: 11pt;
+            margin-bottom: 4pt;
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 4pt;
+        }
+
+        .item-subtitle {
+            font-style: italic;
+        }
+
+        .coursework {
+            margin-top: 6pt;
+        }
+
+        ul {
+            margin-top: 0;
+            margin-bottom: 8pt;
+            padding-left: 18pt;
+        }
+
+        li {
+            margin-bottom: 0;
+        }
+
+        .skills-list {
+            margin-top: 4pt;
+        }
+
+        .link {
+            color: #1155cc;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+        <div class="name">Theo Markopoulos</div>
+        <div class="contact">510-710-0027 | theo.markopoulos7@gmail.com</div>
+    </div>
+
+    <div class="section-title">EDUCATION</div>
+    <div class="item-header">
+        <span>University of California, Irvine</span>
+        <span>Expected December 2026</span>
+    </div>
+    <div class="item-subtitle">Bachelor of Science, Computer Science</div>
+    <div class="coursework"><strong>Relevant Coursework:</strong> Data Structures &amp; Algorithms, Computer Networks,
+        Data Science &amp; Statistics, Embedded Systems, Artificial Intelligence, Machine Learning, Computer
+        Architecture, Database Management, Software Engineering, Object-Oriented Programming</div>
+
+    <div class="section-title">TECHNICAL SKILLS</div>
+    <div class="skills-list">
+        <div><strong>Languages:</strong> {{ technical_skills_languages }}</div>
+        <div><strong>Libraries:</strong> {{ technical_skills_libraries }}</div>
+        <div><strong>Software:</strong> {{ technical_skills_software }}</div>
+    </div>
+
+    <div class="section-title">EXPERIENCE</div>
+    <div class="item-header">
+        <span>Panda Express | Shift Lead</span>
+        <span>Sep 2022 – Sep 2025</span>
+    </div>
+    <ul>
+        <li>{{ panda_bullet_1 }}</li>
+        <li>{{ panda_bullet_2 }}</li>
+    </ul>
+
+    <div class="section-title">PROJECTS</div>
+
+    <div class="item-header">
+        <span>{{ project_1_title }} | {{ project_1_stack }}</span>
+    </div>
+    <ul>
+        <li>{{ project_1_bullet_1 }}</li>
+        <li>{{ project_1_bullet_2 }}</li>
+        {% if project_1_bullet_3 %}<li>{{ project_1_bullet_3 }}</li>{% endif %}
+        {% if project_1_bullet_4 %}<li>{{ project_1_bullet_4 }}</li>{% endif %}
+    </ul>
+
+    <div class="item-header">
+        <span>{{ project_2_title }} | {{ project_2_stack }}</span>
+    </div>
+    <ul>
+        <li>{{ project_2_bullet_1 }}</li>
+        <li>{{ project_2_bullet_2 }}</li>
+        {% if project_2_bullet_3 %}<li>{{ project_2_bullet_3 }}</li>{% endif %}
+        {% if project_2_bullet_4 %}<li>{{ project_2_bullet_4 }}</li>{% endif %}
+    </ul>
+
+    <div class="item-header">
+        <span>{{ project_3_title }} | {{ project_3_stack }}</span>
+    </div>
+    <ul>
+        <li>{{ project_3_bullet_1 }}</li>
+        <li>{{ project_3_bullet_2 }}</li>
+        {% if project_3_bullet_3 %}<li>{{ project_3_bullet_3 }}</li>{% endif %}
+        {% if project_3_bullet_4 %}<li>{{ project_3_bullet_4 }}</li>{% endif %}
+    </ul>
+
+    {% if project_4_title %}
+    <div class="item-header">
+        <span>{{ project_4_title }} | {{ project_4_stack }}</span>
+    </div>
+    <ul>
+        <li>{{ project_4_bullet_1 }}</li>
+        <li>{{ project_4_bullet_2 }}</li>
+        {% if project_4_bullet_3 %}<li>{{ project_4_bullet_3 }}</li>{% endif %}
+        {% if project_4_bullet_4 %}<li>{{ project_4_bullet_4 }}</li>{% endif %}
+    </ul>
+    {% endif %}
+
+    {% if project_5_title %}
+    <div class="item-header">
+        <span>{{ project_5_title }} | {{ project_5_stack }}</span>
+    </div>
+    <ul>
+        <li>{{ project_5_bullet_1 }}</li>
+        <li>{{ project_5_bullet_2 }}</li>
+        {% if project_5_bullet_3 %}<li>{{ project_5_bullet_3 }}</li>{% endif %}
+        {% if project_5_bullet_4 %}<li>{{ project_5_bullet_4 }}</li>{% endif %}
+    </ul>
+    {% endif %}
+
+</body>
+
+</html>
